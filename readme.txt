@@ -1,0 +1,1 @@
+In this exercise we will demonstrate our HTML and CSS3 skills through creating a website
